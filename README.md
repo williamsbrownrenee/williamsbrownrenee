@@ -13,6 +13,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Security Audit                                | <a href="https://github.com/williamsbrownrenee/Security-Audit">Security Audit</a> |
 | GoBuster Hacking Tool                         | <a href="https://github.com/williamsbrownrenee/gobusterhacktool">Gobuster Hacking Tool</a> |
+| Detection Lab                                 | <a href="https://github.com/williamsbrownrenee/Detection-Lab">Detection Lab</a> |
+
 
 ### Network
 <div>
