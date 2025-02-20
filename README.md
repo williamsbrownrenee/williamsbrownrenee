@@ -17,6 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Reporting                            | <a href="https://github.com/williamsbrownrenee/Incident-Reporting">Incident Reporting</a> |
 | Wireshark                                     | <a href="https://github.com/williamsbrownrenee/WireShark-">Wireshark</a> |
 | Practical Pentration Test                     | <a href="https://github.com/williamsbrownrenee/Practical-Penetration-testing-">Practical Pentration Test</a> |
+| Installing Software Linux                     | <a href="https://github.com/williamsbrownrenee/Installing-Software-Linux">Installing Software Linux</a> |
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -47,3 +48,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/williamsbrownrenee/Incident-Reporting">Incident Reporting</a>
 - <a href="https://github.com/williamsbrownrenee/WireShark-">Wireshark</a>
 - <a href="https://github.com/williamsbrownrenee/Practical-Penetration-testing-">Practical Pentration Test</a>
+- <a href="https://github.com/williamsbrownrenee/Installing-Software-Linux">Installing Software Linux</a>
