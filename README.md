@@ -20,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Installing Software Linux                     | <a href="https://github.com/williamsbrownrenee/Installing-Software-Linux">Installing Software Linux</a> |
 | Linux Commands                                | <a href="https://github.com/williamsbrownrenee/Linux-Commands">Linux Commands</a>
 | Permission Commands                           | <a href="https://github.com/williamsbrownrenee/Permission-Commands">Permission Command</a>  |
-
+| SQL Query and investigation                   | <a href="https://github.com/williamsbrownrenee/SQL-Query-and-Investigation"> SQL Query and Investigate</a> |
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -52,5 +52,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/williamsbrownrenee/WireShark-">Wireshark</a>
 - <a href="https://github.com/williamsbrownrenee/Practical-Penetration-testing-">Practical Pentration Test</a>
 - <a href="https://github.com/williamsbrownrenee/Installing-Software-Linux">Installing Software Linux</a>
+-  <a href="https://github.com/williamsbrownrenee/SQL-Query-and-Investigation"> SQL Query and Investigate</a> 
 - <a href="https://github.com/williamsbrownrenee/Linux-Commands">Linux Commands</a>
 - <a href="https://github.com/williamsbrownrenee/Permission-Commands">Permission Command</a>
