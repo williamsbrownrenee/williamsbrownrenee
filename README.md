@@ -22,6 +22,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Permission Commands                           | <a href="https://github.com/williamsbrownrenee/Permission-Commands">Permission Command</a>  |
 | SQL Query and investigation                   | <a href="https://github.com/williamsbrownrenee/SQL-Query-and-Investigation"> SQL Query and Investigate</a> |
 | SQL Filters                                   | <a href="https://github.com/williamsbrownrenee/SQL-Filter">SQL Filters</a> |
+| Decrypting Encrypted Files                    | <a href="https://github.com/williamsbrownrenee/Decrypting-Encrypted-Files">Decrypting Files</a> |
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -57,4 +58,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/williamsbrownrenee/Linux-Commands">Linux Commands</a>
 - <a href="https://github.com/williamsbrownrenee/Permission-Commands">Permission Command</a>
 - <a href="https://github.com/williamsbrownrenee/SQL-Filter">SQL Filters</a> 
-- 
+- <a href="https://github.com/williamsbrownrenee/Decrypting-Encrypted-Files">Decrypting Files</a>
